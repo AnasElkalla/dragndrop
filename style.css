@@ -80,11 +80,11 @@ img {
 .frame .box.moveright {
     background-color: black;
     color: red;
-    transform: translateX(62px);
-    -webkit-transform: translateX(62px);
-    -moz-transform: translateX(62px);
-    -ms-transform: translateX(62px);
-    -o-transform: translateX(62px);
+    transform: translateX(64px);
+    -webkit-transform: translateX(64px);
+    -moz-transform: translateX(64px);
+    -ms-transform: translateX(64px);
+    -o-transform: translateX(64px);
 }
 
 .frame .box.movedownleft {
@@ -100,11 +100,11 @@ img {
 .frame .box.moveleft {
     background-color: black;
     color: blue;
-    transform: translateX(-62px);
-    -webkit-transform: translateX(-62px);
-    -moz-transform: translateX(-62px);
-    -ms-transform: translateX(-62px);
-    -o-transform: translateX(-62px);
+    transform: translateX(-64px);
+    -webkit-transform: translateX(-64px);
+    -moz-transform: translateX(-64px);
+    -ms-transform: translateX(-64px);
+    -o-transform: translateX(-64px);
 }
 
 .frame .box.moveupright {
